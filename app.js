@@ -119,21 +119,21 @@
 // else{alert("input not working")};
 
 
-// var marks = prompt("enter your marks ")
-// if (marks >= 80 && marks <= 100)alert("Distinction");
-// if (marks >= 50 && marks <= 79)alert("good marks");
-// if (marks <= 50)alert("fail-");
-// if (marks <= 0 )alert("invalid marks");
-// if (marks >= 101 ) alert("invalid marks");
+var marks = prompt("enter your marks ")
+if (marks >= 80 && marks <= 100)alert("Distinction");
+if (marks >= 50 && marks <= 79)alert("good marks");
+if (marks <= 50)alert("fail-");
+if (marks <= 0 )alert("invalid marks");
+if (marks >= 101 ) alert("invalid marks");
 //               working clearly
 
 
-var age = prompt("what is your age ")
-var card = prompt("du you have a card")
-if (age >= 60 && card == "yes")alert("seneir and membership discount");
-else if (age >= 60 )alert("senior discount");
-else if (card == "123")alert("premuim discount");
-else(alert("no discount"))
+// var age = prompt("what is your age ")
+// var card = prompt("du you have a card")
+// if (age >= 60 && card == "yes")alert("seneir and membership discount");
+// else if (age >= 60 )alert("senior discount");
+// else if (card == "123")alert("premuim discount");
+// else(alert("no discount"))
                     //  working clearly
 
 
