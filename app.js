@@ -128,13 +128,13 @@
 //               working clearly
 
 
-// var age = prompt("what is your age ")
-// var card = prompt("du you have a card")
-// if (age >= 60 && card == "yes")alert("seneir and membership discount");
-// else if (age >= 60 )alert("senior discount");
-// else if (card == "123")alert("premuim discount");
-// else(alert("no discount"))
-//                      working clearly
+var age = prompt("what is your age ")
+var card = prompt("du you have a card")
+if (age >= 60 && card == "yes")alert("seneir and membership discount");
+else if (age >= 60 )alert("senior discount");
+else if (card == "123")alert("premuim discount");
+else(alert("no discount"))
+                    //  working clearly
 
 
 //                     
